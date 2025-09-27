@@ -18,11 +18,11 @@ Here you can find some of my side projects, experiments, and utilities.
 
 ---
 
-## 🌱 About Me
+## 🍜 About Me
 - 💻 Mainly coding in **JavaScript / TypeScript** and **C#**
 - 🌐 Full-stack web engineer (with a preference for backend development)
 - 🛠 Enjoy building small tools and automation scripts to make work easier
-- ☕ Coffee + code is still my fuel
+- ☕ Coffee + Ramen + code is still my fuel
 
 
 <!--
