@@ -2,7 +2,7 @@
 
 I'm a software engineer who likes building practical tools for messy real-world workflows.
 
-Recently, I have been working mostly with **TypeScript / Node.js**, backend systems, product workflows, integrations, and small automation tools that make daily work easier to manage.
+Recently, I have been working mostly with **TypeScript / Node.js**, across backend systems, product workflows, integrations, and automation tools that make daily work easier to manage.
 
 ## Selected Projects
 
@@ -22,13 +22,13 @@ Two connected projects for turning job discovery into a more structured, human-i
 
 - [TrackVest Web](https://github.com/VanessaLin9/trackvest-web) / [API](https://github.com/VanessaLin9/trackvest-api)  
   `React` · `TypeScript` · `NestJS` · `PostgreSQL`  
-  Personal finance tracking system with accounts, assets, investments, transactions, dashboards, and general-ledger-style workflows.
+  Investment bookkeeping system with portfolio workflows, FIFO positions, corporate actions, broker CSV imports, and an agent-facing MCP layer.
 
-### Current Experiments
+### Active Projects
 
 - [Paper Digest](https://github.com/VanessaLin9/sci-search)  
-  `TypeScript` · `RSS/API` · `LLM routing` · `Resend` · `GitHub Actions`  
-  Daily science-paper monitoring prototype that fetches papers, normalizes metadata, filters by date, optionally routes broad science sources through an LLM gate, and sends an email digest.
+  `TypeScript` · `RSS/API` · `LLM workflows` · `Resend` · `GitHub Actions` \
+  Daily life-science digest with LLM-assisted filtering, Traditional Chinese summaries, email delivery, and a public [GitHub Pages archive](https://vanessalin9.github.io/sci-search/).
 
 ### Frontend Demo
 
@@ -38,12 +38,13 @@ Two connected projects for turning job discovery into a more structured, human-i
 
 ## About
 
-- Mainly coding in **TypeScript / JavaScript** and **C#**
+- Mainly coding in **TypeScript / JavaScript**, with additional experience in **Python** and **C#**
 - Interested in backend systems, workflow automation, product tools, and system integration
 - Curious about applied AI workflows that support real operations
 - I like building from real friction: small tools, useful interfaces, and systems that make work less scattered
 
 ## Connect
 
+- Portfolio: [vanessalin9.github.io](https://vanessalin9.github.io/)
 - LinkedIn: [tzu-chi-lin-vanessa](https://www.linkedin.com/in/tzu-chi-lin-vanessa/?locale=en_US)
 - CakeResume: [Vanessa Lin](https://www.cakeresume.com/vanessa-lin-6c846e)
